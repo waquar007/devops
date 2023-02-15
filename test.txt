@@ -3,3 +3,4 @@ this is my second line
 added new line by master
 new line by feature
 iiiiiiiiiiiiii
+revert  change
